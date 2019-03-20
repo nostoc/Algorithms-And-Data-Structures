@@ -1,6 +1,5 @@
 /** 
   * @Name   : Perihan Sahan
-  * @Lab    : 2
   * @IDE    : Eclipse
   * @version: 1.8.0_12
   * @OS     : Windows

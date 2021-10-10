@@ -1,7 +1,7 @@
 
 
 /** 
-  * @Name   : Perihan Sahan
+  * @Name   : Perihan
   * @IDE    : Eclipse
   * @version: 1.8.0_12
   * @OS     : Windows
